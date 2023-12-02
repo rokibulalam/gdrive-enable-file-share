@@ -2,7 +2,7 @@
 
 
 
-1. Add your own authentication file from the Google Drive API at the same path as main.py.
+1. Add your own authentication file (client_secrets.json) from the Google Drive API at the same path as main.py.
 2. The file 'log_file.xlsx' will be created automatically. The file in the repository is only for reference.
 
 
